@@ -17,4 +17,4 @@ https://github.com/stlehmann/micropython-ssd1306/blob/master/ssd1306.py
 # Paso a paso
 
 La explicación completa la podrás ver en el siguiente video de Youtube:
-https://youtu.be/
+https://youtu.be/z5GlO2teX54
